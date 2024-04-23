@@ -3,7 +3,7 @@
 
 # Mirage.AI
 
-Check out **Mirage.AI**, a groundbreaking solution combating the rising threat of deepfake manipulation in visual media! Developed during the Aeravat AI Hackathon at SPIT, organized by IEEE Bombay Section, Mirage.AI emerged as the First Runner Up!
+Check out **Mirage.AI**, a groundbreaking solution combating the rising threat of deepfake manipulation in visual media! Developed during the Aeravat AI Hackathon at SPIT, organized by IEEE Bombay Section, Mirage.AI emerged as the 2nd Runner Up!
 
 🚀 Spearheaded by our team, **Mirage.AI** leverages cutting-edge AI technologies like TensorFlow, MTCNN, and VGG-16 to accurately identify manipulated content across images, audio, and videos.
 
